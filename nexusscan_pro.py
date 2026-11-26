@@ -47,7 +47,7 @@ class NexusScanFramework:
             return
             
         self.log_info(f"Querying Shodan Threat Intel for IP: {target_ip}...")
-        url = f"https://shodan.io{target_ip}?key={self.SHODAN_API_KEY}"
+        url = f"https://api.shodan.io/shodan/host/{target_ip}?key={self.SHODAN_API_KEY}"
         try:
             response = requests.get(url, timeout=5)
             if response.status_code == 200:
