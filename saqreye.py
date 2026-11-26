@@ -25,7 +25,7 @@ class NexusScanFramework:
 
     def banner(self):
         print(f"{Fore.MAGENTA}{Style.BRIGHT}" + "="*65)
-        print(f"{Fore.CYAN}{Style.BRIGHT}  NEXUSSCAN-OSINT : THE CD-ROM SPECIAL FRAMEWORK  ")
+        print(f"{Fore.CYAN}{Style.BRIGHT}  SaqrEye : THE CD-ROM SPECIAL FRAMEWORK  ")
         print(f"{Fore.GREEN}  DEVELOPED BY CORE AUTHOR: {Fore.YELLOW}{self.AUTHOR} {Fore.DIM}(v{self.VERSION})")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}" + "="*65 + "\n")
 
