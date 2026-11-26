@@ -17,7 +17,7 @@
    ```
 2. **تشغيل الأداة:**
    ```bash
-   python nexusscan_pro.py
+   python saqreye.py
    ```
 3. **الاستخدام:** ضع رابط الموقع المستهدف (مثل `example.com`) أو عنوان الآي بي (IP) واضغط Enter ليبدأ الفحص الشامل فوراً.
 
@@ -41,7 +41,7 @@
    ```
 2. **Launch the Core Framework:**
    ```bash
-   python nexusscan_pro.py
+   python saqreye.py
    ```
 3. **Usage:** Input your target domain or IP address when prompted to kickstart the multi-stage automated recon pipeline.
 
@@ -65,6 +65,6 @@
    ```
 2. **Ejecutar la herramienta:**
    ```bash
-   python nexusscan_pro.py
+   python saqreye.py
    ```
 3. **Uso:** Introduzca el dominio u objetivo IP y presione Enter para iniciar el análisis automatizado.
