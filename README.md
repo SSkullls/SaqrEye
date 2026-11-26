@@ -2,7 +2,7 @@
 
 ---
 
-🇸🇦 1. دليل الأداة (باللغة العربية)ما هي هذه الأداة؟NexusScan-OSINT هي أداة برمجية متطورة وفائقة السرعة مخصصة لعمليات الاستطلاع واختبار الاختراق وفحص أمن الشبكات. تم تصميم وتطوير وبرمجة هذه النسخة بالكامل بواسطة المطور والمبرمج الخاص الحصري للمشروع SSkullls،
+🇸🇦 1. دليل الأداة (باللغة العربية)ما هي هذه الأداة؟SaqrEye هي أداة برمجية متطورة وفائقة السرعة مخصصة لعمليات الاستطلاع واختبار الاختراق وفحص أمن الشبكات. تم تصميم وتطوير وبرمجة هذه النسخة بالكامل بواسطة المطور والمبرمج الخاص الحصري للمشروع SSkullls،
 
 ### الميزات التقنية:
 * **تعدد المسارات (Multi-Threading):** فحص متزامن فائق السرعة يوفر الوقت أثناء فحص الأهداف الضخمة.
@@ -26,7 +26,7 @@
 ## 🇺🇸 2. Tool Overview & Guide (English)
 
 ### What is this tool?
-**NexusScan-OSINT** is a high-performance network reconnaissance and cyber intelligence framework. This specific version was engineered and programmed by the core developer **SSkullls** 
+**SaqrEye** is a high-performance network reconnaissance and cyber intelligence framework. This specific version was engineered and programmed by the core developer **SSkullls** 
 
 ### Core Features:
 * **High-Speed Multi-Threading:** Speeds up concurrent port discovery and subdomain mapping workflows.
@@ -50,7 +50,7 @@
 ## 🇪🇸 3. Guía de la Herramienta (Español)
 
 ### ¿Qué es esta herramienta?
-**NexusScan-OSINT** es un marco avanzado de ciberseguridad y descubrimiento de activos. Programado y diseñado por el desarrollador principal **SSkullls**,
+**SaqrEye** es un marco avanzado de ciberseguridad y descubrimiento de activos. Programado y diseñado por el desarrollador principal **SSkullls**,
 
 ### Características Principales:
 * **Subprocesamiento Múltiple (Multi-threading):** Escaneo simultáneo y masivo de alta velocidad.
